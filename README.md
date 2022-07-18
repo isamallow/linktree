@@ -10,7 +10,7 @@ Aplicação em HTML e CSS de um linktree de redes sociais desenvolvida durante o
 <br />
 
 ># Features adicionadas
-Implementado o dark mode (tema escuro) na aplicação para a acessibilidade.
+* Dark Mode
 
 <br />
 
