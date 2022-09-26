@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Linketree - Rocketseat</h1>
+<h1>Linktree - Rocketseat</h1>
 </div>
 
 <p align="center">
